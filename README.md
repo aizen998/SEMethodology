@@ -7,5 +7,5 @@ Done:
 4. Network Graph and Tasks Dependencies
 5. Lab 1 Ruby
 6. Lab 2 Ruby
-7. DB (Realized in MS SQL Server)
-8. Prototype (under construction, currently the computing and extracting modules are being implemented).
+7. Project source code (ASP.NET inplementation).
+8. Final version of SRS.
